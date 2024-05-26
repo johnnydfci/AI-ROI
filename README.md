@@ -24,7 +24,7 @@ Of note, our method only derives liver attenuation on unenhanced chest CT images
 
 Preprint: A version of this DL system has been uploaded to arXiv as a preprint with a perpetual and non-exclusive license and a DOI (https://doi.org/10.48550/arXiv.2210.15149).
 
-Peer-reviewed article: to be updated
+Peer-reviewed article: Zhang, Z., Li, G., Wang, Z. et al. Deep-learning segmentation to select liver parenchyma for categorizing hepatic steatosis on multinational chest CT. Sci Rep 14, 11987 (2024). https://doi.org/10.1038/s41598-024-62887-2
 
 ## License
 
